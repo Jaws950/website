@@ -24,7 +24,7 @@ document.addEventListener('DOMContentLoaded', function () {
     backToTopButton.style.cursor = 'pointer';
     backToTopButton.style.display = 'none';
     backToTopButton.style.zIndex = '1000';
-    document.body.appendChild(backToTopButton;
+    document.body.appendChild(backToTopButton);
 
     window.addEventListener('scroll', () => {
         if (window.scrollY > 300) {
