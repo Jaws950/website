@@ -59,3 +59,5 @@ Feel free to customize the content in the `src/components` directory to reflect 
 ## License
 
 This project is open-source and available under the MIT License.
+
+thanks!
